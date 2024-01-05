@@ -17,9 +17,10 @@
     margin: 0 auto;
   }
   
-  .w-6h-6 {
-    width: 1.8rem;
-    height: 1.8rem;
+  #cart {
+    font-size: 25px;
+    color: #ebebeb;
+    
     cursor: pointer;
     padding-right: 20px;
   }
