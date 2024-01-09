@@ -93,26 +93,7 @@
     margin: 0px 5px;
     font-size: 10px;
   }
-  #slide{
-    position: absolute;
-    display: none;
-    
-  }
-  #slide a{
-    background-color: #171717;
-    width: 13rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .nav-links ul ul a{
-    margin: 6px 92px;
-    text-align: center;
-  }
   
-  .nav_list:hover ul#slide{
-    display: block;
-  }
 
 .action{
   margin-left: 20rem;
